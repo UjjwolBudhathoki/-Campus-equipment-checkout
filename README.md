@@ -1,2 +1,2 @@
-# Campus-equipment-checkout
-A simple group based project for in-class activity
+# Campus Equipment Checkout
+Tracks laptops, cameras, and lab kits available for student checkout.
